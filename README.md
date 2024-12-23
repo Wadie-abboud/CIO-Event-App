@@ -3,10 +3,10 @@
 
 ### Developers
 <ul>
-    <li> Scrum Master: Wadie Abboud </li>
-    <li> Dev Ops: Rishi Sarraff </li>
-    <li> Testing Manager: Gemma Zhou</li>
-    <li> Requirements Manager: Stephanie Fang</li>
+    <li> Wadie Abboud (Scrum Master) </li>
+    <li> Rishi Sarraff (Dev Ops) </li>
+    <li> Gemma Zhou (Testing Manager) </li>
+    <li> Stephanie Fang (Requirements Manager) </li>
 </ul>
 
 ### Description
