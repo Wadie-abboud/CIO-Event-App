@@ -1,15 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bknTyRar)
+
 # UVA CIO Event App
 
-__Name & Computing ID:__ <br>
+### Developers
 <ul>
-    <li> Rishi Sarraff (uar3pv), </li>
-    <li> Wadie Abboud (ucu8tt), </li>
-    <li> Gemma Zhou (gsm3cx),</li>
-    <li> Stephanie Fang (ded8xt) </li>
+    <li> Scrum Master: Wadie Abboud </li>
+    <li> Dev Ops: Rishi Sarraff </li>
+    <li> Testing Manager: Gemma Zhou</li>
+    <li> Requirements Manager: Stephanie Fang</li>
 </ul>
 
-# Features
+### Description
+ A fully functional event planner intended to help UVA student organizations plan, manage, schedule and facilitate club events. This project was completed in Fall 2024 as part of a semester long assignment for CS 3240-Software Engineering at UVA. The app was mainly developed using Django, Python, JavaScript, PostgreSQL, in addition to various other technologies and is currently (Dec 2024) being hosted using Heroku. https://myeventsappf24-b01089f2f950.herokuapp.com/
+
+## Features
 - Login Page
     -     
     - Users are provided with three options:
